@@ -19,3 +19,15 @@ The objective is to detect potential mental health issues at an early stage. By 
 
 The design is focused on kids, parents, educators, and healthcare professionals gain access to a powerful tool that facilitates proactive intervention and support, ultimately leading to better outcomes for children's mental health.
 
+Key Features:
+
+1. AI-Powered Analysis: Utilizes GenAI algorithms to analyze children's drawings for early detection of mental health issues.
+
+2. Comprehensive Insights: Provides detailed reports on psychological tendencies and potential concerns based on stroke speed, patterns, paintbrush size, and color choices.
+
+3. Early Intervention: Facilitates proactive intervention and support by identifying potential mental health issues at an early stage.
+
+4. User-Friendly Interface: Intuitive platform designed for parents, educators, and healthcare professionals to easily interpret and utilize the insights provided.
+
+The ultimate goal is to transform the landscape of pediatric healthcare and empower stakeholders to make informed decisions that positively impact children's lives.
+
