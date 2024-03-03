@@ -1,4 +1,4 @@
-# MentalHealthEarlyDetectionMonitoring
+# Mental Health Early Detection & Monitoring
 
 - Dare to dream
 - Ignite your inspiration and innovation
