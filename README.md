@@ -50,4 +50,10 @@ The subject—a teddy bear—commonly symbolizes innocence, comfort, and childho
 
 Psychologically, the painter might have been in a reflective state of mind, contemplating themes of comfort, the past, or the simplicity of emotion that a teddy bear represents. The textured strokes and contrasts between the stark background and the softly illuminated bear could indicate a deliberate and sensitive approach to the subject, suggesting a personal connection or an emotional exploration by the artist during the painting process. The absence of other elements in the composition focuses the viewer's attention entirely on the bear, lending an intimacy to the piece that could mirror the artist's introspective mindset.
 
+------
+
+In the last POC artwork, the image appears to depict a lemon slice with a gradient of color occurring from a deep blue at the top to yellow at the center, resembling the natural coloration of a lemon. The texture looks like it might have been done with pastels or a similar medium, with visible strokes and blending. Regarding the general state of an artist while painting, it's common for artists to go through various emotional and psychological states. They may experience intense focus as they deal with intricate details or try to capture a particular element precisely. During these moments, their full attention is on the medium and the subject, working meticulously to achieve the desired effect. Inspiration can strike at different times, which can lead to a surge of creativity where the artist rapidly adds, changes, or enhances elements within the artwork. 
+
+-----
+
 
